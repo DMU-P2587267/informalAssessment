@@ -1,0 +1,19 @@
+p {
+color: red;
+}
+footer {
+  background-color: #221;
+    }
+
+footer p{
+  color: grey;
+  font-size: 0.8em;
+}
+
+p {
+   background-color: rgb(132, 181, 208):
+   border: 20px black solid;
+   border-radius: 10px;
+   padding: 20px;
+   margin: 50px;
+}
